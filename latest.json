@@ -1,0 +1,11 @@
+{
+  "format": "megalo_thisavrofilakio_windows_release",
+  "formatVersion": 1,
+  "commit": "19464e2a641751313351233879b64cb3fb51c61a",
+  "version": "0.2.4",
+  "createdAt": "2026-09-03T07:16:20.519Z",
+  "platform": "windows-x64",
+  "asset": "megalo-thisavrofilakio-windows-x64-setup.exe",
+  "sha256": "9678e3555caebd8c268f98f7fe6c7f8cf5ddfc3ee387815593781afc67af6c72",
+  "size": 17555202
+}
