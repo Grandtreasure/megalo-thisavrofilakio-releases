@@ -1,0 +1,11 @@
+{
+  "format": "megalo_thisavrofilakio_macos_release",
+  "formatVersion": 1,
+  "commit": "19464e2a641751313351233879b64cb3fb51c61a",
+  "version": "0.2.4",
+  "createdAt": "2026-09-03T07:26:03.381Z",
+  "platform": "macos-universal",
+  "asset": "megalo-thisavrofilakio-macos-universal.zip",
+  "sha256": "cb7c1a97923595f8087d0248459c05a9aef64f82b383d186d57525ec38f80a05",
+  "size": 36172180
+}
